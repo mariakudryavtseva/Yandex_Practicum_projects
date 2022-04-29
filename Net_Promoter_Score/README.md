@@ -19,5 +19,5 @@
 
 [Ссылка на дашборд в Tableau Public](https://public.tableau.com/app/profile/maria.kudryavtseva/viz/NPS_clients_Capstone/NPS_4) 
 
-## Используемые библиотеки
+## Используемые библиотеки и инструменты
 *SQL*, *PostgreSQL*, *SQLAlchemy*, *pandas*, *numpy*, *Tableau*

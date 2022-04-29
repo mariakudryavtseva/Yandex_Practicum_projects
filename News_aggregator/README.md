@@ -15,5 +15,5 @@
 
 [Ссылка на дашборд в Tableau Public](https://public.tableau.com/app/profile/maria.kudryavtseva/viz/YandexDzenProject_Kudryavtseva/_) 
 
-## Используемые библиотеки
+## Используемые библиотеки и инструменты
 *SQLAlchemy*, *PostgreSQL*, *dash*, *Tableau*
